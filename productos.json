@@ -1,0 +1,37 @@
+[{
+    "id": 1,
+    "foto": "https://i.ibb.co/RbNk9B8/estacion.png",
+    "nombre": "Buzo Estacion",
+    "precio": 10000
+},
+{
+    "id": 2,
+    "foto": "https://i.ibb.co/Lp8YrdD/abrigo.png",
+    "nombre": "Abrigo",
+    "precio": 20000
+},
+{
+    "id": 3,
+    "foto": "https://i.ibb.co/DbtFcD5/bersuit1.png",
+    "nombre": "Buzo Bersuit",
+    "precio": 15000
+},
+{
+    "id": 4,
+    "foto": "https://i.ibb.co/QQbGXWF/rayita.png",
+    "nombre": "Buzo Estampado",
+    "precio": 12000
+},
+{
+    "id": 5,
+    "foto": "https://i.ibb.co/hKxgFnY/oxford.png",
+    "nombre": "Buzo Oxford",
+    "precio": 20000
+},
+{
+    "id": 6,
+    "foto": "https://i.ibb.co/q1MVPyh/primavera.png",
+    "nombre": "Buzo Primavera",
+    "precio": 25000
+}
+]
